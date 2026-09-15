@@ -1,1 +1,1 @@
-# Seasonal-Agriculture-Performance-Analysis-
+# Seasonal-Agriculture-Performance-Analysis-Data analytics project analyzing seasonal agricultural performance, environmental conditions, resource usage, crop yield and economic outcomes using Python.
